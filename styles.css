@@ -1,0 +1,77 @@
+body {
+  background: #ddd;
+  margin: 1rem;
+  padding: 1rem;
+  max-width: 500px;
+  margin: 2rem auto;
+  font-family: "Open Sans", sans-serif;
+}
+
+nav {
+	border-bottom: 2px solid orange;
+}
+
+ol {
+	padding-left: 0;
+}
+
+.crumb {
+	margin-right: 2em;
+	display: inline;
+}
+
+a {
+	color: orange;
+}
+
+a:visited {
+	color: crimson;
+}
+
+
+input {
+	display: block;
+}
+
+img {
+	max-width: 50px;
+}
+
+h3 {
+	color: orange;
+}
+
+ul {
+	color: crimson;
+}
+
+.fav-color {
+	background-color: yellow;
+	height: 35px;
+	width: 120px;
+}
+
+.fav-color:hover{
+	transform: scale(1.5, 1.5);
+}
+
+.fav-place {
+	background-color: yellow;
+	height: 35px;
+	width: 120px;
+}
+
+.fav-place:hover{
+	transform: scale(1.5, 1.5);
+}
+
+.fav-ritual {
+	background-color: yellow;
+	height: 35px;
+	width: 120px;
+}
+
+.fav-ritual:hover{
+	transform: scale(1.5, 1.5);
+}
+
